@@ -1,0 +1,483 @@
+2023-06-25 18:09:32,903 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-25 18:09:40,183 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-25 18:09:40,373 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-25 18:09:52,757 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-25 18:09:55,801 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-25 18:09:55,853 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-25 18:10:00,414 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-25 18:10:02,514 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-25 18:28:22,371 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-25 18:28:35,971 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-25 18:28:36,233 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-25 18:28:54,884 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-25 18:28:57,961 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-25 18:28:58,020 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-25 18:29:01,088 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-25 18:29:03,304 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-26 11:50:26,631 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 11:52:00,898 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 11:52:29,392 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 11:52:39,958 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 11:52:40,180 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-26 11:52:50,518 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 11:52:53,616 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-26 11:52:53,679 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-26 11:52:56,749 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-26 11:52:58,981 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-26 12:18:22,648 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 12:18:39,541 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 12:18:39,616 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-26 12:18:53,734 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 12:18:56,797 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-26 12:18:56,859 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-26 12:19:01,343 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-26 12:19:03,446 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-26 12:20:05,148 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 12:20:18,734 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 12:20:19,033 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-26 12:20:33,109 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 12:20:36,184 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-26 12:20:36,242 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-26 12:20:39,308 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-26 12:20:41,897 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-26 12:35:09,062 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 12:35:17,714 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 12:35:17,844 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-26 12:35:26,863 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 12:35:29,932 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-26 12:35:29,980 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-26 12:35:33,039 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-26 12:35:35,085 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-26 12:40:23,598 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 12:40:33,085 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 12:40:33,215 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-26 12:40:43,159 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 12:40:46,202 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-26 12:40:46,252 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-26 12:40:49,315 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-26 12:40:51,622 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-26 12:41:10,740 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 12:41:17,800 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 12:41:17,932 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-26 12:41:27,107 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 12:41:30,172 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-26 12:41:30,218 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-26 12:41:33,276 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-26 12:41:35,311 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-26 12:45:03,923 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 12:45:15,504 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 12:45:15,647 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-26 12:45:28,874 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 12:45:31,929 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-26 12:45:31,983 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-26 12:45:35,034 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-26 12:45:37,086 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-26 12:46:10,933 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 12:46:21,518 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 12:46:27,995 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 12:46:45,874 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 12:46:48,469 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 12:46:54,101 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 12:47:48,411 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 12:47:53,060 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 12:47:58,954 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 12:48:30,142 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 12:48:35,336 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 12:48:35,487 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-26 12:48:42,199 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 12:48:45,262 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-26 12:48:45,310 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-26 12:48:48,356 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-26 12:48:50,398 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-26 12:50:10,294 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 12:50:18,915 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 12:50:19,052 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-26 12:50:30,292 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 12:50:33,355 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-26 12:50:33,408 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-26 12:50:36,467 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-26 12:50:38,508 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-26 12:51:48,526 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 12:51:58,534 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 12:51:58,660 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-26 12:52:06,477 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 12:52:09,524 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-26 12:52:09,570 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-26 12:52:12,617 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-26 12:52:14,649 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-26 13:02:51,502 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 13:03:01,475 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 13:03:01,640 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-26 13:03:11,112 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 13:03:14,171 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-26 13:03:14,230 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-26 13:03:17,277 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-26 13:03:19,315 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-26 13:03:35,633 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 13:03:49,459 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 13:03:49,631 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-26 13:04:02,788 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 13:04:05,846 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-26 13:04:05,902 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-26 13:04:08,949 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-26 13:04:11,026 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-26 13:13:09,618 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 13:13:17,872 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 13:13:18,012 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-26 13:13:26,929 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 13:13:29,989 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-26 13:13:30,037 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-26 13:13:33,088 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-26 13:13:35,863 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-26 13:14:42,300 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 13:14:44,180 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 13:14:50,054 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 13:18:23,547 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 13:18:33,871 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 13:18:34,008 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-26 13:18:41,356 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 13:18:44,409 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-26 13:18:44,459 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-26 13:18:47,512 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-26 13:18:49,563 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-26 13:19:47,626 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 13:19:49,192 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 13:19:52,045 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 13:20:08,046 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 13:20:19,293 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 13:20:19,513 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-26 13:20:30,894 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 13:20:33,979 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-26 13:20:34,036 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-26 13:20:38,973 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-26 13:20:41,073 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-26 13:21:45,959 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-26 13:22:07,627 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-26 13:22:07,883 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-26 13:22:25,533 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-26 13:22:28,613 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-26 13:22:28,683 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-26 13:22:31,743 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-26 13:22:33,863 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-27 15:00:23,030 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-27 15:00:30,613 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-27 15:00:30,814 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-27 15:00:39,505 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-27 15:00:42,558 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-27 15:00:42,625 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin123  ---entered 
+2023-06-27 15:00:45,706 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-27 15:00:47,837 : INFO : Test_Login : test_login_002 : 47 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-27 15:01:48,314 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-27 15:01:54,259 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-27 15:01:54,455 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-27 15:02:00,919 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-27 15:02:03,978 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-27 15:02:04,029 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin1234  ---entered 
+2023-06-27 15:02:07,089 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-27 15:02:14,352 : ERROR : Test_Login : test_login_002 : 52 : Login Failed and *** test_login_002 Failed *** 
+2023-06-27 15:11:06,988 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-27 15:11:18,845 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-27 15:11:19,821 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-27 15:11:20,021 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-27 15:11:21,910 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-27 15:11:21,975 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin1234  ---entered 
+2023-06-27 15:11:25,025 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-27 15:11:32,332 : ERROR : Test_Login : test_login_002 : 52 : Login Failed and *** test_login_002 Failed *** 
+2023-06-27 15:12:49,656 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-27 15:13:02,327 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-27 15:13:02,865 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-27 15:13:03,054 : INFO : Test_Login : test_pagetitle_001 : 23 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-27 15:13:05,388 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-27 15:13:05,442 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin1234  ---entered 
+2023-06-27 15:13:09,860 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-27 15:13:17,070 : ERROR : Test_Login : test_login_002 : 52 : Login Failed and *** test_login_002 Failed *** 
+2023-06-27 15:16:57,610 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-27 15:17:11,945 : INFO : Test_Login : test_login_002 : 34 : *****************  test_login_002 ***************** 
+2023-06-27 15:17:12,256 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-27 15:17:12,554 : ERROR : Test_Login : test_pagetitle_001 : 28 : Page title is does not matched   OrangeHRM   ***** test_pagetitle_001 Failed ***** 
+2023-06-27 15:17:15,019 : INFO : Test_Login : test_login_002 : 38 : Username --->   Admin   ---entered 
+2023-06-27 15:17:15,078 : INFO : Test_Login : test_login_002 : 40 : Password --->   admin1234  ---entered 
+2023-06-27 15:17:18,135 : INFO : Test_Login : test_login_002 : 43 : Clicked on Login Button 
+2023-06-27 15:17:25,422 : ERROR : Test_Login : test_login_002 : 52 : Login Failed and *** test_login_002 Failed *** 
+2023-06-27 15:17:43,476 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-27 15:17:56,268 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-27 15:17:56,495 : INFO : Test_Login : test_login_002 : 35 : *****************  test_login_002 ***************** 
+2023-06-27 15:17:58,722 : ERROR : Test_Login : test_pagetitle_001 : 29 : Page title is does not matched   OrangeHRM   ***** test_pagetitle_001 Failed ***** 
+2023-06-27 15:17:59,551 : INFO : Test_Login : test_login_002 : 39 : Username --->   Admin   ---entered 
+2023-06-27 15:17:59,608 : INFO : Test_Login : test_login_002 : 41 : Password --->   admin1234  ---entered 
+2023-06-27 15:18:02,661 : INFO : Test_Login : test_login_002 : 44 : Clicked on Login Button 
+2023-06-27 15:18:09,915 : ERROR : Test_Login : test_login_002 : 53 : Login Failed and *** test_login_002 Failed *** 
+2023-06-27 17:19:08,991 : INFO : Test_Login_DDT : Test_Login_DDT : 67 : ++++++++++ END of test_login_DDT_001 ++++++++++++ 
+2023-06-27 17:19:09,007 : INFO : Test_Login_DDT : Test_Login_DDT : 68 : +++++++++ Test_Login_DDT ++++++++++++++++++ 
+2023-06-27 17:19:27,070 : INFO : Test_Login_DDT : test_login_DDT_001 : 21 : *****************  test_login_DDT_001  ***************** 
+2023-06-27 17:19:30,293 : INFO : Test_Login_DDT : test_login_DDT_001 : 33 : Entering Username as --> Admin and password as --> admin123 
+2023-06-27 17:19:32,340 : INFO : Test_Login_DDT : test_login_DDT_001 : 40 : Matching actual title -- >  OrangeHRM and expected title --> OrangeHRM 
+2023-06-27 17:19:32,341 : INFO : Test_Login_DDT : test_login_DDT_001 : 42 : ++++++++++  Positive test case Passed +++++++++++++ 
+2023-06-27 17:24:34,940 : INFO : Test_Login_DDT : Test_Login_DDT : 67 : ++++++++++ END of test_login_DDT_001 ++++++++++++ 
+2023-06-27 17:24:34,940 : INFO : Test_Login_DDT : Test_Login_DDT : 68 : +++++++++ Test_Login_DDT ++++++++++++++++++ 
+2023-06-27 17:24:43,871 : INFO : Test_Login_DDT : test_login_DDT_001 : 21 : *****************  test_login_DDT_001  ***************** 
+2023-06-27 17:24:46,997 : INFO : Test_Login_DDT : test_login_DDT_001 : 33 : Entering Username as --> Admin and password as --> admin123 
+2023-06-27 17:24:50,146 : INFO : Test_Login_DDT : test_login_DDT_001 : 40 : Matching actual title -- >  OrangeHRM and expected title --> OrangeHRM 
+2023-06-27 17:24:50,146 : INFO : Test_Login_DDT : test_login_DDT_001 : 42 : ++++++++++  Positive test case Passed +++++++++++++ 
+2023-06-27 17:27:52,514 : INFO : Test_Login_DDT : Test_Login_DDT : 71 : ++++++++++ END of test_login_DDT_001 ++++++++++++ 
+2023-06-27 17:27:52,514 : INFO : Test_Login_DDT : Test_Login_DDT : 72 : +++++++++ Test_Login_DDT ++++++++++++++++++ 
+2023-06-27 17:28:15,798 : INFO : Test_Login_DDT : test_login_DDT_001 : 21 : *****************  test_login_DDT_001  ***************** 
+2023-06-27 17:28:18,945 : INFO : Test_Login_DDT : test_login_DDT_001 : 33 : Entering Username as --> Admin and password as --> admin123 
+2023-06-27 17:28:22,741 : INFO : Test_Login_DDT : test_login_DDT_001 : 40 : Matching actual title -- >  OrangeHRM and expected title --> OrangeHRM 
+2023-06-27 17:28:22,741 : INFO : Test_Login_DDT : test_login_DDT_001 : 42 : ++++++++++  Positive test case Passed +++++++++++++ 
+2023-06-27 17:29:47,341 : INFO : Test_Login_DDT : Test_Login_DDT : 75 : ++++++++++ END of test_login_DDT_001 ++++++++++++ 
+2023-06-27 17:29:47,341 : INFO : Test_Login_DDT : Test_Login_DDT : 76 : +++++++++ Test_Login_DDT ++++++++++++++++++ 
+2023-06-27 17:30:04,801 : INFO : Test_Login_DDT : test_login_DDT_001 : 21 : *****************  test_login_DDT_001  ***************** 
+2023-06-27 17:30:07,935 : INFO : Test_Login_DDT : test_login_DDT_001 : 33 : Entering Username as --> Admin and password as --> admin123 
+2023-06-27 17:30:09,990 : INFO : Test_Login_DDT : test_login_DDT_001 : 40 : Matching actual title -- >  OrangeHRM and expected title --> OrangeHRM 
+2023-06-27 17:30:09,990 : INFO : Test_Login_DDT : test_login_DDT_001 : 42 : ++++++++++  Positive test case Passed +++++++++++++ 
+2023-06-27 17:30:14,368 : INFO : Test_Login_DDT : test_login_DDT_001 : 33 : Entering Username as --> admin and password as --> Admin123 
+2023-06-27 17:30:16,415 : INFO : Test_Login_DDT : test_login_DDT_001 : 40 : Matching actual title -- >  OrangeHRM and expected title --> OrangeHRM 
+2023-06-27 17:30:16,416 : INFO : Test_Login_DDT : test_login_DDT_001 : 48 : +++++++++ Login succesful with invalid credentials +++++++++ 
+2023-06-27 17:36:05,314 : INFO : Test_Login_DDT : Test_Login_DDT : 72 : ++++++++++ END of test_login_DDT_001 ++++++++++++ 
+2023-06-27 17:36:05,314 : INFO : Test_Login_DDT : Test_Login_DDT : 73 : +++++++++ Test_Login_DDT ++++++++++++++++++ 
+2023-06-27 17:36:14,766 : INFO : Test_Login_DDT : test_login_DDT_001 : 22 : *****************  test_login_DDT_001  ***************** 
+2023-06-27 17:36:17,893 : INFO : Test_Login_DDT : test_login_DDT_001 : 34 : Entering Username as --> Admin and password as --> admin123 
+2023-06-27 17:36:21,341 : INFO : Test_Login_DDT : test_login_DDT_001 : 41 : Matching actual title -- >  OrangeHRM and expected title --> OrangeHRM 
+2023-06-27 17:36:21,341 : INFO : Test_Login_DDT : test_login_DDT_001 : 43 : ++++++++++  Positive test case Passed +++++++++++++ 
+2023-06-27 17:36:24,254 : INFO : Test_Login_DDT : test_login_DDT_001 : 34 : Entering Username as --> admin and password as --> Admin123 
+2023-06-27 17:36:26,296 : INFO : Test_Login_DDT : test_login_DDT_001 : 41 : Matching actual title -- >  OrangeHRM and expected title --> OrangeHRM 
+2023-06-27 17:36:26,296 : INFO : Test_Login_DDT : test_login_DDT_001 : 49 : +++++++++ Login succesful with invalid credentials +++++++++ 
+2023-06-27 17:44:55,820 : INFO : Test_Login_DDT : Test_Login_DDT : 70 : ++++++++++ END of test_login_DDT_001 ++++++++++++ 
+2023-06-27 17:44:55,820 : INFO : Test_Login_DDT : Test_Login_DDT : 71 : +++++++++ Test_Login_DDT ++++++++++++++++++ 
+2023-06-27 17:45:04,914 : INFO : Test_Login_DDT : test_login_DDT_001 : 22 : *****************  test_login_DDT_001  ***************** 
+2023-06-27 17:45:08,039 : INFO : Test_Login_DDT : test_login_DDT_001 : 34 : Entering Username as --> Admin and password as --> admin123 
+2023-06-27 17:45:11,353 : INFO : Test_Login_DDT : test_login_DDT_001 : 39 : Login Sucessful with given credentials Username -->Adminpassword -->admin123 
+2023-06-27 17:45:11,354 : INFO : Test_Login_DDT : test_login_DDT_001 : 41 : ++++++++++  Positive test case Passed +++++++++++++ 
+2023-06-27 17:45:14,219 : INFO : Test_Login_DDT : test_login_DDT_001 : 34 : Entering Username as --> admin and password as --> Admin123 
+2023-06-27 17:45:26,277 : INFO : Test_Login_DDT : test_login_DDT_001 : 55 : Logout failed with invalid credentials 
+2023-06-27 17:48:29,572 : INFO : Test_Login_DDT : Test_Login_DDT : 70 : ++++++++++ END of test_login_DDT_001 ++++++++++++ 
+2023-06-27 17:48:29,572 : INFO : Test_Login_DDT : Test_Login_DDT : 71 : +++++++++ Test_Login_DDT ++++++++++++++++++ 
+2023-06-27 17:48:40,901 : INFO : Test_Login_DDT : test_login_DDT_001 : 22 : *****************  test_login_DDT_001  ***************** 
+2023-06-27 17:48:44,026 : INFO : Test_Login_DDT : test_login_DDT_001 : 34 : Entering Username as --> Admin and password as --> admin123 
+2023-06-27 17:48:47,376 : INFO : Test_Login_DDT : test_login_DDT_001 : 39 : Login Sucessful with given credentials Username -->Adminpassword -->admin123 
+2023-06-27 17:48:47,376 : INFO : Test_Login_DDT : test_login_DDT_001 : 41 : ++++++++++  Positive test case Passed +++++++++++++ 
+2023-06-27 17:48:50,262 : INFO : Test_Login_DDT : test_login_DDT_001 : 34 : Entering Username as --> admin and password as --> Admin123 
+2023-06-27 17:49:02,353 : INFO : Test_Login_DDT : test_login_DDT_001 : 55 : Logout failed with invalid credentials 
+2023-06-27 17:49:04,454 : INFO : Test_Login_DDT : test_login_DDT_001 : 34 : Entering Username as --> ad and password as --> ad123 
+2023-06-27 17:49:16,570 : INFO : Test_Login_DDT : test_login_DDT_001 : 55 : Logout failed with invalid credentials 
+2023-06-27 17:49:18,668 : INFO : Test_Login_DDT : test_login_DDT_001 : 34 : Entering Username as --> adm and password as --> ad111 
+2023-06-27 17:49:30,913 : INFO : Test_Login_DDT : test_login_DDT_001 : 55 : Logout failed with invalid credentials 
+2023-06-27 17:49:32,916 : INFO : Test_Login_DDT : test_login_DDT_001 : 64 : +++++++++++++++ The test case test_login_DDT_001 Passed 
+2023-06-27 17:55:15,653 : INFO : Test_Login_DDT : Test_Login_DDT : 70 : ++++++++++ END of test_login_DDT_001 ++++++++++++ 
+2023-06-27 17:55:15,653 : INFO : Test_Login_DDT : Test_Login_DDT : 71 : +++++++++ Test_Login_DDT ++++++++++++++++++ 
+2023-06-27 17:55:26,895 : INFO : Test_Login_DDT : test_login_DDT_001 : 22 : *****************  test_login_DDT_001  ***************** 
+2023-06-27 17:55:30,070 : INFO : Test_Login_DDT : test_login_DDT_001 : 34 : Entering Username as --> Admin and password as --> admin123 
+2023-06-27 17:55:33,344 : INFO : Test_Login_DDT : test_login_DDT_001 : 39 : Login Sucessful with given credentials Username -->Adminpassword -->admin123 
+2023-06-27 17:55:33,344 : INFO : Test_Login_DDT : test_login_DDT_001 : 41 : ++++++++++  Positive test case Passed +++++++++++++ 
+2023-06-27 17:55:36,714 : INFO : Test_Login_DDT : test_login_DDT_001 : 34 : Entering Username as --> admin and password as --> Admin123 
+2023-06-27 17:55:48,866 : INFO : Test_Login_DDT : test_login_DDT_001 : 55 : Logout failed with invalid credentials 
+2023-06-27 17:55:50,994 : INFO : Test_Login_DDT : test_login_DDT_001 : 34 : Entering Username as --> ad and password as --> ad123 
+2023-06-27 17:56:03,116 : INFO : Test_Login_DDT : test_login_DDT_001 : 55 : Logout failed with invalid credentials 
+2023-06-27 17:56:05,231 : INFO : Test_Login_DDT : test_login_DDT_001 : 34 : Entering Username as --> adm and password as --> ad111 
+2023-06-27 17:56:17,656 : INFO : Test_Login_DDT : test_login_DDT_001 : 55 : Logout failed with invalid credentials 
+2023-06-27 17:56:19,665 : INFO : Test_Login_DDT : test_login_DDT_001 : 64 : +++++++++++++++ The test case test_login_DDT_001 Passed 
+2023-06-28 13:35:40,598 : INFO : Test_Login : test_login_DDT_001 : 20 : Opening URL 
+2023-06-28 13:35:46,387 : INFO : Test_Login : test_login_DDT_001 : 35 : test case passed for username --Admin and password--- admin123 
+2023-06-28 13:36:00,571 : INFO : Test_Login : test_login_DDT_001 : 46 : Login Failed with invalid credentials --admin ----Admin123  
+2023-06-28 13:36:13,288 : INFO : Test_Login : test_login_DDT_001 : 46 : Login Failed with invalid credentials --ad ----ad123  
+2023-06-28 13:36:25,949 : INFO : Test_Login : test_login_DDT_001 : 46 : Login Failed with invalid credentials --adm ----ad111  
+2023-06-28 13:36:25,951 : INFO : Test_Login : test_login_DDT_001 : 53 : ********* test_login_DDT_001  Passed ***************** 
+2023-06-28 14:00:06,918 : INFO : Test_Login_DDT : Test_Login_DDT : 70 : ++++++++++ END of test_login_DDT_001 ++++++++++++ 
+2023-06-28 14:00:06,918 : INFO : Test_Login_DDT : Test_Login_DDT : 71 : +++++++++ Test_Login_DDT ++++++++++++++++++ 
+2023-06-28 14:00:26,011 : INFO : Test_Login_DDT : test_login_DDT_001 : 22 : *****************  test_login_DDT_001  ***************** 
+2023-06-28 14:00:29,252 : INFO : Test_Login_DDT : test_login_DDT_001 : 34 : Entering Username as --> Admin and password as --> admin123 
+2023-06-28 14:00:34,468 : INFO : Test_Login_DDT : test_login_DDT_001 : 39 : Login Sucessful with given credentials Username -->Adminpassword -->admin123 
+2023-06-28 14:00:34,468 : INFO : Test_Login_DDT : test_login_DDT_001 : 41 : ++++++++++  Positive test case Passed +++++++++++++ 
+2023-06-28 14:00:42,400 : INFO : Test_Login_DDT : test_login_DDT_001 : 34 : Entering Username as --> admin and password as --> Admin123 
+2023-06-28 14:01:00,280 : INFO : Test_Login_DDT : test_login_DDT_001 : 55 : Logout failed with invalid credentials 
+2023-06-28 14:01:02,675 : INFO : Test_Login_DDT : test_login_DDT_001 : 34 : Entering Username as --> ad and password as --> ad123 
+2023-06-28 14:01:17,127 : INFO : Test_Login_DDT : test_login_DDT_001 : 55 : Logout failed with invalid credentials 
+2023-06-28 14:01:19,451 : INFO : Test_Login_DDT : test_login_DDT_001 : 34 : Entering Username as --> adm and password as --> ad111 
+2023-06-28 14:01:33,899 : INFO : Test_Login_DDT : test_login_DDT_001 : 55 : Logout failed with invalid credentials 
+2023-06-28 14:01:35,914 : INFO : Test_Login_DDT : test_login_DDT_001 : 64 : +++++++++++++++ The test case test_login_DDT_001 Passed 
+2023-06-28 16:02:34,056 : INFO : Test_add_employee : test_add_employee_003 : 20 : ******** test_add_employee_003 started *********** 
+2023-06-28 16:02:39,437 : INFO : Test_add_employee : test_add_employee_003 : 23 : **** Opening Url *****  
+2023-06-28 16:04:30,633 : INFO : Test_add_employee : test_add_employee_003 : 20 : ******** test_add_employee_003 started *********** 
+2023-06-28 16:04:39,936 : INFO : Test_add_employee : test_add_employee_003 : 23 : **** Opening Url *****  
+2023-06-28 16:06:22,818 : INFO : Test_add_employee : test_add_employee_003 : 22 : ******** test_add_employee_003 started *********** 
+2023-06-28 16:06:34,438 : INFO : Test_add_employee : test_add_employee_003 : 26 : **** Opening Url *****  
+2023-06-28 16:06:34,550 : INFO : Test_add_employee : test_add_employee_003 : 30 : Entered the username as Admin and password as admin123 
+2023-06-28 16:06:39,246 : INFO : Test_add_employee : test_add_employee_003 : 33 : Login Sucessfull 
+2023-06-28 16:09:43,266 : INFO : Test_add_employee : test_add_employee_003 : 22 : ******** test_add_employee_003 started *********** 
+2023-06-28 16:09:54,223 : INFO : Test_add_employee : test_add_employee_003 : 26 : **** Opening Url *****  
+2023-06-28 16:09:54,336 : INFO : Test_add_employee : test_add_employee_003 : 30 : Entered the username as Admin and password as admin123 
+2023-06-28 16:09:57,420 : INFO : Test_add_employee : test_add_employee_003 : 33 : Login Sucessfull 
+2023-06-28 16:10:00,219 : INFO : Test_add_employee : test_add_employee_003 : 40 : ****** Clicked on PIM Tab ******* 
+2023-06-28 16:10:02,889 : INFO : Test_add_employee : test_add_employee_003 : 43 : ****** Clicked on Add button  ******* 
+2023-06-28 16:12:35,778 : INFO : Test_add_employee : test_add_employee_003 : 22 : ******** test_add_employee_003 started *********** 
+2023-06-28 16:12:45,653 : INFO : Test_add_employee : test_add_employee_003 : 26 : **** Opening Url *****  
+2023-06-28 16:12:45,760 : INFO : Test_add_employee : test_add_employee_003 : 30 : Entered the username as Admin and password as admin123 
+2023-06-28 16:12:50,298 : INFO : Test_add_employee : test_add_employee_003 : 33 : Login Sucessfull 
+2023-06-28 16:12:53,209 : INFO : Test_add_employee : test_add_employee_003 : 40 : ****** Clicked on PIM Tab ******* 
+2023-06-28 16:12:55,756 : INFO : Test_add_employee : test_add_employee_003 : 43 : ****** Clicked on Add button  ******* 
+2023-06-28 16:12:56,013 : INFO : Test_add_employee : test_add_employee_003 : 48 : ***** Employee details filled ***** 
+2023-06-28 16:13:00,711 : INFO : Test_add_employee : test_add_employee_003 : 53 : ****Employee added sucesfully ****** 
+2023-06-29 22:57:31,002 : INFO : Test_add_employee : test_add_employee_003 : 22 : ******** test_add_employee_003 started *********** 
+2023-06-29 22:58:09,400 : INFO : Test_add_employee : test_add_employee_003 : 26 : **** Opening Url *****  
+2023-06-29 22:59:29,595 : INFO : Test_add_employee : test_add_employee_003 : 22 : ******** test_add_employee_003 started *********** 
+2023-06-29 22:59:51,279 : INFO : Test_add_employee : test_add_employee_003 : 26 : **** Opening Url *****  
+2023-06-29 22:59:51,478 : INFO : Test_add_employee : test_add_employee_003 : 30 : Entered the username as Admin and password as admin123 
+2023-06-29 22:59:54,574 : INFO : Test_add_employee : test_add_employee_003 : 33 : Login Sucessfull 
+2023-06-29 22:59:59,719 : INFO : Test_add_employee : test_add_employee_003 : 40 : ****** Clicked on PIM Tab ******* 
+2023-06-29 23:00:03,316 : INFO : Test_add_employee : test_add_employee_003 : 43 : ****** Clicked on Add button  ******* 
+2023-06-29 23:00:03,808 : INFO : Test_add_employee : test_add_employee_003 : 48 : ***** Employee details filled ***** 
+2023-06-29 23:01:56,312 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-29 23:02:08,736 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-29 23:02:10,977 : INFO : Test_Login : test_pagetitle_001 : 24 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-29 23:02:22,029 : INFO : Test_Login : test_login_002 : 35 : *****************  test_login_002 ***************** 
+2023-06-29 23:02:25,105 : INFO : Test_Login : test_login_002 : 39 : Username --->   Admin   ---entered 
+2023-06-29 23:02:25,195 : INFO : Test_Login : test_login_002 : 41 : Password --->   admin123  ---entered 
+2023-06-29 23:02:28,269 : INFO : Test_Login : test_login_002 : 44 : Clicked on Login Button 
+2023-06-29 23:02:30,427 : INFO : Test_Login : test_login_002 : 48 : Login Succesfull and *** test_login_002 Passed *** 
+2023-06-29 23:07:41,968 : INFO : Test_Login : test_pagetitle_001 : 16 : ********************** test_pagetitle_001 ********************** 
+2023-06-29 23:07:49,343 : INFO : Test_Login : test_pagetitle_001 : 18 : Opening url --->https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+2023-06-29 23:07:51,591 : INFO : Test_Login : test_pagetitle_001 : 24 : Page title is matched  OrangeHRM   ***** test_pagetitle_001 Passed ***** 
+2023-06-29 23:08:00,899 : INFO : Test_Login : test_login_002 : 35 : *****************  test_login_002 ***************** 
+2023-06-29 23:08:03,955 : INFO : Test_Login : test_login_002 : 39 : Username --->   Admin   ---entered 
+2023-06-29 23:08:04,039 : INFO : Test_Login : test_login_002 : 41 : Password --->   admin1234  ---entered 
+2023-06-29 23:08:07,105 : INFO : Test_Login : test_login_002 : 44 : Clicked on Login Button 
+2023-06-29 23:08:14,320 : ERROR : Test_Login : test_login_002 : 53 : Login Failed and *** test_login_002 Failed *** 
+2023-06-30 14:14:26,397 : INFO : Test_add_employee : test_add_employee_003 : 28 : ******** test_add_employee_003 started *********** 
+2023-06-30 14:14:40,145 : INFO : Test_add_employee : test_add_employee_003 : 32 : **** Opening Url *****  
+2023-06-30 14:14:40,366 : INFO : Test_add_employee : test_add_employee_003 : 36 : Entered the username as Admin and password as admin1234 
+2023-06-30 14:14:43,451 : INFO : Test_add_employee : test_add_employee_003 : 39 : Login Sucessfull 
+2023-07-01 14:20:25,948 : INFO : Test_add_employee : test_add_employee_003 : 28 : ******** test_add_employee_003 started *********** 
+2023-07-01 14:20:40,638 : INFO : Test_add_employee : test_add_employee_003 : 32 : **** Opening Url *****  
+2023-07-01 14:20:40,823 : INFO : Test_add_employee : test_add_employee_003 : 36 : Entered the username as Admin and password as admin1234 
+2023-07-01 14:20:43,892 : INFO : Test_add_employee : test_add_employee_003 : 39 : Login Sucessfull 
+2023-07-01 14:21:04,652 : INFO : Test_add_employee : test_add_employee_003 : 28 : ******** test_add_employee_003 started *********** 
+2023-07-01 14:21:20,229 : INFO : Test_add_employee : test_add_employee_003 : 32 : **** Opening Url *****  
+2023-07-01 14:21:20,431 : INFO : Test_add_employee : test_add_employee_003 : 36 : Entered the username as Admin and password as admin123 
+2023-07-01 14:21:23,522 : INFO : Test_add_employee : test_add_employee_003 : 39 : Login Sucessfull 
+2023-07-01 14:21:27,988 : INFO : Test_add_employee : test_add_employee_003 : 46 : ****** Clicked on PIM Tab ******* 
+2023-07-01 14:21:30,509 : INFO : Test_add_employee : test_add_employee_003 : 49 : ****** Clicked on Add button  ******* 
+2023-07-01 14:21:30,997 : INFO : Test_add_employee : test_add_employee_003 : 54 : ***** Employee details filled ***** 
+2023-07-01 14:21:35,397 : INFO : Test_add_employee : test_add_employee_003 : 59 : ****Employee added sucesfully ****** 
+2023-07-01 14:22:50,239 : INFO : Test_add_employee : test_add_employee_003 : 29 : ******** test_add_employee_003 started *********** 
+2023-07-01 14:23:01,104 : INFO : Test_add_employee : test_add_employee_003 : 33 : **** Opening Url *****  
+2023-07-01 14:23:01,273 : INFO : Test_add_employee : test_add_employee_003 : 37 : Entered the username as Admin and password as admin123 
+2023-07-01 14:23:05,610 : INFO : Test_add_employee : test_add_employee_003 : 40 : Login Sucessfull 
+2023-07-01 14:23:08,455 : INFO : Test_add_employee : test_add_employee_003 : 47 : ****** Clicked on PIM Tab ******* 
+2023-07-01 14:23:10,978 : INFO : Test_add_employee : test_add_employee_003 : 50 : ****** Clicked on Add button  ******* 
+2023-07-01 14:23:11,400 : INFO : Test_add_employee : test_add_employee_003 : 55 : ***** Employee details filled ***** 
+2023-07-01 14:23:15,822 : INFO : Test_add_employee : test_add_employee_003 : 60 : ****Employee added sucesfully ****** 
+2023-07-01 14:24:18,251 : INFO : Test_add_employee : test_add_employee_003 : 28 : ******** test_add_employee_003 started *********** 
+2023-07-01 14:24:29,635 : INFO : Test_add_employee : test_add_employee_003 : 32 : **** Opening Url *****  
+2023-07-01 14:24:29,816 : INFO : Test_add_employee : test_add_employee_003 : 36 : Entered the username as Admin and password as admin123 
+2023-07-01 14:24:32,896 : INFO : Test_add_employee : test_add_employee_003 : 39 : Login Sucessfull 
+2023-07-01 14:24:35,792 : INFO : Test_add_employee : test_add_employee_003 : 46 : ****** Clicked on PIM Tab ******* 
+2023-07-01 14:24:38,360 : INFO : Test_add_employee : test_add_employee_003 : 49 : ****** Clicked on Add button  ******* 
+2023-07-01 14:24:38,817 : INFO : Test_add_employee : test_add_employee_003 : 55 : ***** Employee details filled ***** 
+2023-07-01 14:24:43,156 : INFO : Test_add_employee : test_add_employee_003 : 60 : ****Employee added sucesfully ****** 
+2023-07-01 14:26:25,979 : INFO : Test_add_employee : test_add_employee_003 : 28 : ******** test_add_employee_003 started *********** 
+2023-07-01 14:26:36,579 : INFO : Test_add_employee : test_add_employee_003 : 32 : **** Opening Url *****  
+2023-07-01 14:26:36,768 : INFO : Test_add_employee : test_add_employee_003 : 36 : Entered the username as Admin and password as admin123 
+2023-07-01 14:26:41,558 : INFO : Test_add_employee : test_add_employee_003 : 39 : Login Sucessfull 
+2023-07-01 14:26:44,498 : INFO : Test_add_employee : test_add_employee_003 : 46 : ****** Clicked on PIM Tab ******* 
+2023-07-01 14:26:46,996 : INFO : Test_add_employee : test_add_employee_003 : 49 : ****** Clicked on Add button  ******* 
+2023-07-01 14:26:47,404 : INFO : Test_add_employee : test_add_employee_003 : 55 : ***** Employee details filled ***** shah -- rukh -- khan -- 323 
+2023-07-01 14:26:52,822 : INFO : Test_add_employee : test_add_employee_003 : 60 : ****Employee added sucesfully ****** 
+2023-07-01 14:27:13,279 : INFO : Test_add_employee : test_add_employee_003 : 28 : ******** test_add_employee_003 started *********** 
+2023-07-01 14:27:29,539 : INFO : Test_add_employee : test_add_employee_003 : 32 : **** Opening Url *****  
+2023-07-01 14:27:29,716 : INFO : Test_add_employee : test_add_employee_003 : 36 : Entered the username as Admin and password as admin123 
+2023-07-01 14:27:34,187 : INFO : Test_add_employee : test_add_employee_003 : 39 : Login Sucessfull 
+2023-07-01 14:27:37,128 : INFO : Test_add_employee : test_add_employee_003 : 46 : ****** Clicked on PIM Tab ******* 
+2023-07-01 14:27:39,682 : INFO : Test_add_employee : test_add_employee_003 : 49 : ****** Clicked on Add button  ******* 
+2023-07-01 14:27:39,998 : INFO : Test_add_employee : test_add_employee_003 : 55 : ***** Employee details filled ***** shah -- rukh -- khan -- 882 
+2023-07-01 14:27:45,139 : INFO : Test_add_employee : test_add_employee_003 : 60 : ****Employee added sucesfully ****** 
+2023-07-01 14:56:43,549 : INFO : Test_Login_DDT : Test_Login_DDT : 74 : ++++++++++ END of test_login_DDT_001 ++++++++++++ 
+2023-07-01 14:56:43,549 : INFO : Test_Login_DDT : Test_Login_DDT : 75 : +++++++++ Test_Login_DDT ++++++++++++++++++ 
+2023-07-01 14:56:44,883 : INFO : Test_add_employee : test_add_employee_003 : 32 : ******** test_add_employee_003 started *********** 
+2023-07-01 14:57:01,591 : INFO : Test_add_employee : test_add_employee_003 : 36 : **** Opening Url *****  
+2023-07-01 14:57:01,738 : INFO : Test_add_employee : test_add_employee_003 : 40 : Entered the username as Admin and password as admin123 
+2023-07-01 14:57:04,803 : INFO : Test_add_employee : test_add_employee_003 : 43 : Login Sucessfull 
+2023-07-01 14:57:08,620 : INFO : Test_add_employee : test_add_employee_003 : 50 : ****** Clicked on PIM Tab ******* 
+2023-07-01 14:57:11,280 : INFO : Test_add_employee : test_add_employee_003 : 53 : ****** Clicked on Add button  ******* 
+2023-07-01 14:57:11,659 : INFO : Test_add_employee : test_add_employee_003 : 59 : ***** Employee details filled ***** shah -- rukh -- khan -- 583 
+2023-07-01 14:57:17,075 : INFO : Test_add_employee : test_add_employee_003 : 64 : ****Employee added sucesfully ****** 
+2023-07-01 14:57:32,607 : INFO : Test_Login : test_login_002 : 41 : *****************  test_login_002 ***************** 
+2023-07-01 14:57:35,680 : INFO : Test_Login : test_login_002 : 45 : Username --->   Admin   ---entered 
+2023-07-01 14:57:35,751 : INFO : Test_Login : test_login_002 : 47 : Password --->   admin123  ---entered 
+2023-07-01 14:57:38,805 : INFO : Test_Login : test_login_002 : 50 : Clicked on Login Button 
+2023-07-01 14:57:40,917 : INFO : Test_Login : test_login_002 : 54 : Login Succesfull and *** test_login_002 Passed *** 
+2023-07-01 15:10:40,317 : INFO : Test_Login_DDT : Test_Login_DDT : 74 : ++++++++++ END of test_login_DDT_001 ++++++++++++ 
+2023-07-01 15:10:40,317 : INFO : Test_Login_DDT : Test_Login_DDT : 75 : +++++++++ Test_Login_DDT ++++++++++++++++++ 
+2023-07-01 15:10:41,617 : INFO : Test_add_employee : test_add_employee_003 : 32 : ******** test_add_employee_003 started *********** 
+2023-07-01 15:10:59,100 : INFO : Test_add_employee : test_add_employee_003 : 36 : **** Opening Url *****  
+2023-07-01 15:10:59,267 : INFO : Test_add_employee : test_add_employee_003 : 40 : Entered the username as Admin and password as admin123 
+2023-07-01 15:11:04,280 : INFO : Test_add_employee : test_add_employee_003 : 43 : Login Sucessfull 
+2023-07-01 15:11:07,255 : INFO : Test_add_employee : test_add_employee_003 : 50 : ****** Clicked on PIM Tab ******* 
+2023-07-01 15:11:09,816 : INFO : Test_add_employee : test_add_employee_003 : 53 : ****** Clicked on Add button  ******* 
+2023-07-01 15:11:10,276 : INFO : Test_add_employee : test_add_employee_003 : 59 : ***** Employee details filled ***** shah -- rukh -- khan -- 388 
+2023-07-01 15:11:14,691 : INFO : Test_add_employee : test_add_employee_003 : 64 : ****Employee added sucesfully ****** 
+2023-07-01 15:11:27,665 : INFO : Test_Login : test_login_002 : 41 : *****************  test_login_002 ***************** 
+2023-07-01 15:11:30,773 : INFO : Test_Login : test_login_002 : 45 : Username --->   Admin   ---entered 
+2023-07-01 15:11:30,866 : INFO : Test_Login : test_login_002 : 47 : Password --->   admin123  ---entered 
+2023-07-01 15:11:35,438 : INFO : Test_Login : test_login_002 : 50 : Clicked on Login Button 
+2023-07-01 15:11:37,562 : INFO : Test_Login : test_login_002 : 54 : Login Succesfull and *** test_login_002 Passed *** 
+2023-07-01 15:13:52,810 : INFO : Test_Login_DDT : Test_Login_DDT : 74 : ++++++++++ END of test_login_DDT_001 ++++++++++++ 
+2023-07-01 15:13:52,810 : INFO : Test_Login_DDT : Test_Login_DDT : 75 : +++++++++ Test_Login_DDT ++++++++++++++++++ 
+2023-07-01 15:13:53,933 : INFO : Test_add_employee : test_add_employee_003 : 32 : ******** test_add_employee_003 started *********** 
+2023-07-01 15:14:09,730 : INFO : Test_add_employee : test_add_employee_003 : 36 : **** Opening Url *****  
+2023-07-01 15:14:09,891 : INFO : Test_add_employee : test_add_employee_003 : 40 : Entered the username as Admin and password as admin123 
+2023-07-01 15:14:14,544 : INFO : Test_add_employee : test_add_employee_003 : 43 : Login Sucessfull 
+2023-07-01 15:14:17,504 : INFO : Test_add_employee : test_add_employee_003 : 50 : ****** Clicked on PIM Tab ******* 
+2023-07-01 15:14:20,218 : INFO : Test_add_employee : test_add_employee_003 : 53 : ****** Clicked on Add button  ******* 
+2023-07-01 15:14:20,553 : INFO : Test_add_employee : test_add_employee_003 : 59 : ***** Employee details filled ***** shah -- rukh -- khan -- 643 
+2023-07-01 15:14:24,776 : INFO : Test_add_employee : test_add_employee_003 : 64 : ****Employee added sucesfully ****** 
+2023-07-01 15:14:38,720 : INFO : Test_Login : test_login_002 : 41 : *****************  test_login_002 ***************** 
+2023-07-01 15:14:41,785 : INFO : Test_Login : test_login_002 : 45 : Username --->   Admin   ---entered 
+2023-07-01 15:14:41,854 : INFO : Test_Login : test_login_002 : 47 : Password --->   admin123  ---entered 
+2023-07-01 15:14:46,356 : INFO : Test_Login : test_login_002 : 50 : Clicked on Login Button 
+2023-07-01 15:14:48,468 : INFO : Test_Login : test_login_002 : 54 : Login Succesfull and *** test_login_002 Passed *** 
+2023-07-01 15:15:32,797 : INFO : Test_Login_DDT : Test_Login_DDT : 74 : ++++++++++ END of test_login_DDT_001 ++++++++++++ 
+2023-07-01 15:15:32,797 : INFO : Test_Login_DDT : Test_Login_DDT : 75 : +++++++++ Test_Login_DDT ++++++++++++++++++ 
+2023-07-01 15:15:34,011 : INFO : Test_add_employee : test_add_employee_003 : 32 : ******** test_add_employee_003 started *********** 
+2023-07-01 15:15:52,943 : INFO : Test_add_employee : test_add_employee_003 : 36 : **** Opening Url *****  
+2023-07-01 15:15:53,108 : INFO : Test_add_employee : test_add_employee_003 : 40 : Entered the username as Admin and password as admin123 
+2023-07-01 15:15:57,533 : INFO : Test_add_employee : test_add_employee_003 : 43 : Login Sucessfull 
+2023-07-01 15:16:00,542 : INFO : Test_add_employee : test_add_employee_003 : 50 : ****** Clicked on PIM Tab ******* 
+2023-07-01 15:16:03,065 : INFO : Test_add_employee : test_add_employee_003 : 53 : ****** Clicked on Add button  ******* 
+2023-07-01 15:16:03,500 : INFO : Test_add_employee : test_add_employee_003 : 59 : ***** Employee details filled ***** shah -- rukh -- khan -- 920 
+2023-07-01 15:16:07,983 : INFO : Test_add_employee : test_add_employee_003 : 64 : ****Employee added sucesfully ****** 
+2023-07-01 15:16:24,762 : INFO : Test_Login : test_login_002 : 41 : *****************  test_login_002 ***************** 
+2023-07-01 15:16:27,849 : INFO : Test_Login : test_login_002 : 45 : Username --->   Admin   ---entered 
+2023-07-01 15:16:27,937 : INFO : Test_Login : test_login_002 : 47 : Password --->   admin123  ---entered 
+2023-07-01 15:16:32,281 : INFO : Test_Login : test_login_002 : 50 : Clicked on Login Button 
+2023-07-01 15:16:34,415 : INFO : Test_Login : test_login_002 : 54 : Login Succesfull and *** test_login_002 Passed *** 
+2023-07-01 15:20:50,614 : INFO : Test_Login_DDT : Test_Login_DDT : 74 : ++++++++++ END of test_login_DDT_001 ++++++++++++ 
+2023-07-01 15:20:50,614 : INFO : Test_Login_DDT : Test_Login_DDT : 75 : +++++++++ Test_Login_DDT ++++++++++++++++++ 
+2023-07-01 15:20:51,719 : INFO : Test_add_employee : test_add_employee_003 : 32 : ******** test_add_employee_003 started *********** 
+2023-07-01 15:21:35,201 : INFO : Test_add_employee : test_add_employee_003 : 36 : **** Opening Url *****  
+2023-07-01 15:21:35,372 : INFO : Test_add_employee : test_add_employee_003 : 40 : Entered the username as Admin and password as admin123 
+2023-07-01 15:21:40,114 : INFO : Test_add_employee : test_add_employee_003 : 43 : Login Sucessfull 
+2023-07-01 15:21:44,147 : INFO : Test_add_employee : test_add_employee_003 : 50 : ****** Clicked on PIM Tab ******* 
+2023-07-01 15:21:46,644 : INFO : Test_add_employee : test_add_employee_003 : 53 : ****** Clicked on Add button  ******* 
+2023-07-01 15:21:46,967 : INFO : Test_add_employee : test_add_employee_003 : 59 : ***** Employee details filled ***** shah -- rukh -- khan -- 912 
+2023-07-01 15:21:51,218 : INFO : Test_add_employee : test_add_employee_003 : 64 : ****Employee added sucesfully ****** 
+2023-07-01 15:22:05,746 : INFO : Test_Login : test_login_002 : 41 : *****************  test_login_002 ***************** 
+2023-07-01 15:22:08,817 : INFO : Test_Login : test_login_002 : 45 : Username --->   Admin   ---entered 
+2023-07-01 15:22:08,897 : INFO : Test_Login : test_login_002 : 47 : Password --->   admin123  ---entered 
+2023-07-01 15:22:13,434 : INFO : Test_Login : test_login_002 : 50 : Clicked on Login Button 
+2023-07-01 15:22:15,544 : INFO : Test_Login : test_login_002 : 54 : Login Succesfull and *** test_login_002 Passed *** 
+2023-07-01 15:23:38,002 : INFO : Test_Login_DDT : Test_Login_DDT : 74 : ++++++++++ END of test_login_DDT_001 ++++++++++++ 
+2023-07-01 15:23:38,002 : INFO : Test_Login_DDT : Test_Login_DDT : 75 : +++++++++ Test_Login_DDT ++++++++++++++++++ 
+2023-07-01 15:23:39,158 : INFO : Test_add_employee : test_add_employee_003 : 32 : ******** test_add_employee_003 started *********** 
+2023-07-01 15:23:51,060 : INFO : Test_add_employee : test_add_employee_003 : 36 : **** Opening Url *****  
+2023-07-01 15:23:51,205 : INFO : Test_add_employee : test_add_employee_003 : 40 : Entered the username as Admin and password as admin123 
+2023-07-01 15:23:55,446 : INFO : Test_add_employee : test_add_employee_003 : 43 : Login Sucessfull 
+2023-07-01 15:23:58,311 : INFO : Test_add_employee : test_add_employee_003 : 50 : ****** Clicked on PIM Tab ******* 
+2023-07-01 15:24:00,855 : INFO : Test_add_employee : test_add_employee_003 : 53 : ****** Clicked on Add button  ******* 
+2023-07-01 15:24:01,207 : INFO : Test_add_employee : test_add_employee_003 : 59 : ***** Employee details filled ***** shah -- rukh -- khan -- 634 
+2023-07-01 15:24:07,438 : INFO : Test_add_employee : test_add_employee_003 : 64 : ****Employee added sucesfully ****** 
+2023-07-01 15:24:18,453 : INFO : Test_Login : test_login_002 : 41 : *****************  test_login_002 ***************** 
+2023-07-01 15:24:21,514 : INFO : Test_Login : test_login_002 : 45 : Username --->   Admin   ---entered 
+2023-07-01 15:24:21,593 : INFO : Test_Login : test_login_002 : 47 : Password --->   admin123  ---entered 
+2023-07-01 15:24:27,190 : INFO : Test_Login : test_login_002 : 50 : Clicked on Login Button 
+2023-07-01 15:24:29,313 : INFO : Test_Login : test_login_002 : 54 : Login Succesfull and *** test_login_002 Passed *** 
